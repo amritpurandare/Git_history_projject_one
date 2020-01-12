@@ -1,4 +1,4 @@
-package com.amrit.myapplication;
+package com.amrit.myapplication.demo;
 
 public class test {
 
