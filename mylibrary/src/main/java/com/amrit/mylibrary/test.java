@@ -1,4 +1,4 @@
-package com.amrit.myapplication.demo;
+package com.amrit.mylibrary;
 
 public class test {
 
